@@ -1,2 +1,2 @@
-# gocd
-gocd build test
+# drone-test
+drone build test
